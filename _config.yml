@@ -10,8 +10,8 @@ title: Wikimedia Audience Stakeholder Framework
 email: hello@reboot.org
 description: > # this means to ignore newlines until "baseurl:"
   Who exactly is Wikimedia's audience, and where do they stack up?
-baseurl: "http://thereboot.github.io/wmf-framework" # the subpath of your site, e.g. /blog
-url: "http://thereboot.github.io/wmf-framework" # the base hostname & protocol for your site
+baseurl: "https://thereboot.github.io/wmf-framework" # the subpath of your site, e.g. /blog
+url: "https://thereboot.github.io/wmf-framework" # the base hostname & protocol for your site
 twitter_username: theReboot
 github_username:  theReboot
 
